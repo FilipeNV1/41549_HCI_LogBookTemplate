@@ -21,6 +21,7 @@
 
 ## B.1b. Detailed Competitor Analysis
 >	Choose the most notable competitor and do a more thorough analysis of their interactive solution
+
 Drivvo
 
 
@@ -28,6 +29,10 @@ Drivvo
 
 #### Method
 [ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
+
+Heuristic evaluation carried out by the 3 members of the group, using the given template.
+Severity scale: 0 (No problem) to 4 (Critical problem).
+Method: Everyone did their own and then we discussed
 
 
 #### Individual Evaluations
@@ -46,11 +51,15 @@ Drivvo
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
-| --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| **Issue**                            | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
+| ------------------------------------ | ------------ | -------- | -------- | ------------------------------------------- |
+| Subscription pop-up cannot be closed | 4            | 3        | 3        | Ensure that all pop-ups have a close button |
+| Polluted screen                      | 2            | 3        | 1        | Clean the pop-ups                           |
+| Not very intuitive                   | 2            | 1        | 2        |                                             |
+| Week feedback                        | 2            | 2        | 2        | Add more visual confimations                |
+| No help offer                        | 2            | 2        | 2        | Make it easier for people who have w                                                                                difficulties working with smartphones
+| Outdated design                      | 1            | 1        | 1        | Updating the design to be more modern       |
+| Limited customization                | 1            | 1        | 1        | Allow users to customize the interface      |
 
 
 
@@ -60,41 +69,79 @@ Drivvo
 #### Method
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
 
+We chose simple tasks and put ourselves in the user's shoes
+
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
 
+Register new vehicle
+Register service
+Set reminders
+
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| **1. Register new vehicle** | Open app                               |
+|                             | Navigate to “... More”                 |
+|                             | Choose the vehicles option             |
+|                             | Click on "+"                           |
 
 
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
+| **2. Register service**       | Open app                                |
+|                               | Click on "+"                            |
+|                               | Choose "service"                        |
+|                               | Complete the fields                     |
+
+
+| Task                        | Subtasks                               |
+| --------------------------- | -------------------------------------- |
+| **3. Set reminders**        | Open app                               |
+|                             | Click on "+"                           |
+|                             | Choose "reminder"                      |
+|                             | Complete the fields                    |
 
 
 #### Results
 
-Task: [This is the task]
+Task: Register new vehicle
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | Navigate to “... More”   | No                                         |       | Yes                                                                                |       | Yes                       | As add a vehicle is important it should have a better option             |     |
+| 2      | Choose the vehicles option   | Yes                                         |       | Yes                                                                                  |       | Yes                      |               |     |
+| 3      | Click on "+"   | Yes                                         |       | Yes                                                                                  |       | Yes                       |               |     |
+|
+
+Task: Register service
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Click on "+"   | Yes                                         |       | Yes                                                                                |       | Yes                       | As add a vehicle is important it should have a better option             |     |
+| 2      | Choose "service"   | Yes                                         |       | Yes                                                                                  |       | Yes                      |               |     |
+| 3      | Complete the fields   | Yes                                         |       | Yes                                                                                  |       | Yes                       |               |     |
+|
+
+Task: Register service
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Click on "+"   | Yes                                         |       | Yes                                                                                |       | Yes                       | As add a vehicle is important it should have a better option             |     |
+| 2      | Choose "reminder"   | Yes                                         |       | Yes                                                                                  |       | Yes                      |               |     |
+| 3      | Complete the fields   | Yes                                         |       | Yes                                                                                  |       | Yes                       |               |     |
+|
 
 ## B.1c. Overall Analysis
 
 [Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
+
+Drivvo's analysis revealed strengths and weaknesses that can inform the design of a competitive solution. Below are the main insights:
+
+Despite the many features, the visual design is functional but seems outdated, It offers few options for customizing the interface, The interface can be confusing for less experienced users, Lack of visual confirmations after actions.
+It could definitely be improved in terms of visuals and especially in terms of functionality (avoiding so many pop-ups and the subscription screen problem).
+Danger of being overtaken by more modern applications and can have difficulty in retaining users due to limited usability.
 
 ---
 
