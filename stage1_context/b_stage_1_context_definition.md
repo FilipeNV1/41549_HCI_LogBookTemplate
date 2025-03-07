@@ -12,17 +12,16 @@
 ## B.1a. Competitors
 
 
-| **Competitor**    | **Description**                             | Information repository              |
-| ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
-
+| **Competitor**    | **Description**                                                                               |
+| ----------------- | --------------------------------------------------------------------------------------------- |
+| Drivvo            | Vehicle management application that allows you to control expenses, maintenance and deadlines |
+| Fuelio            | Application similar to Drivvo, focused on managing fuel and vehicle expenses                  |
 
 
 
 ## B.1b. Detailed Competitor Analysis
 >	Choose the most notable competitor and do a more thorough analysis of their interactive solution
+Drivvo
 
 
 ### - Heuristic Evaluation
