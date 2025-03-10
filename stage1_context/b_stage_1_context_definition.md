@@ -28,7 +28,6 @@ Drivvo
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
 
 Heuristic evaluation carried out by the 3 members of the group, using the given template.
 Severity scale: 0 (No problem) to 4 (Critical problem).
@@ -67,13 +66,10 @@ Method: Everyone did their own and then we discussed
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
 
 We chose simple tasks and put ourselves in the user's shoes
 
 #### Task Selection and Task Analysis
-
-[Which tasks did you select and why. What are the subtasks entailed for each ]
 
 Register new vehicle
 Register service
@@ -119,7 +115,7 @@ Task: Register service
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | Click on "+"   | Yes                                         |       | Yes                                                                                |       | Yes                       | As add a vehicle is important it should have a better option             |     |
+| 1      | Click on "+"   | Yes                                         |       | Yes                                                                                |       | Yes                       |              |     |
 | 2      | Choose "service"   | Yes                                         |       | Yes                                                                                  |       | Yes                      |               |     |
 | 3      | Complete the fields   | Yes                                         |       | Yes                                                                                  |       | Yes                       |               |     |
 |
@@ -128,7 +124,7 @@ Task: Register service
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | Click on "+"   | Yes                                         |       | Yes                                                                                |       | Yes                       | As add a vehicle is important it should have a better option             |     |
+| 1      | Click on "+"   | Yes                                         |       | Yes                                                                                |       | Yes                       |             |     |
 | 2      | Choose "reminder"   | Yes                                         |       | Yes                                                                                  |       | Yes                      |               |     |
 | 3      | Complete the fields   | Yes                                         |       | Yes                                                                                  |       | Yes                       |               |     |
 |

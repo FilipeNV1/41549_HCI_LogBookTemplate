@@ -10,24 +10,24 @@
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** [Briefly describe what the system is designed to do] 
+**Primary Purpose:**
 
 Track mileage, fuel consumption and costs
 
-**Key Features:** - [Feature 1] - [Feature 2] - [Feature 3] 
+**Key Features:**
 
 Feature 1: Price of gasoline/diesel/gas
 Feature 2: GPS tracker
 Feature 3: Import/Export to csv
 
-**Unique Selling Points (USPs):** - [What makes this system stand out?] 
+**Unique Selling Points (USPs):**
 
 Focus on Fuel Management
 Automated calculations
 Multiplatform
 Map integration
 
-**Limitations/Weaknesses:** - [Any known shortcomings or pain points] 
+**Limitations/Weaknesses:**
 
 Limited integration
 Lack of customization
