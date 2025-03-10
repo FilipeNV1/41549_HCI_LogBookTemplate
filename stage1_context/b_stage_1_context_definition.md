@@ -153,10 +153,9 @@ Danger of being overtaken by more modern applications and can have difficulty in
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
 
 ### Interview List 
-| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
-| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| Date       | Participant / Role | Key Insights                                                    | Link to Notes                |  
+| ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- |
+| 25-02-2025 | Regular user      | Keep track of all the important dates and milestones related to their car. | [📄 Notes](./interviews/interview.md) |                           |     
 
 ### Common Themes & Patterns 
 
