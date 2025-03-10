@@ -79,10 +79,10 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Is the visual design and content focused on the essentials? 
 >	- Have all distracting, unnescessary elements been removed?
 
-| **Issue**             | **Severity** | Recommendation |
-| ---------------       | ------------ | -------------- |
-| Polluted screen       | 2            |                |
-| Not very intuitive    | 2            |                |
+| **Issue**             | **Severity** | Recommendation                  |
+| ---------------       | ------------ | --------------                  |
+| Polluted screen       | 2            | Clear the pop-ups               |
+| Not very intuitive    | 2            |                                 |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 

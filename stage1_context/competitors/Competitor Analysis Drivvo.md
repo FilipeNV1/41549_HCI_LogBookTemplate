@@ -10,18 +10,18 @@
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** [Briefly describe what the system is designed to do] 
+**Primary Purpose:**
 
 Organize and keep track of all the information about our vehicles, managing supplies, expenses, maintenance, income, routes and reminders.
 
-**Key Features:** - [Feature 1] - [Feature 2] - [Feature 3]
+**Key Features:**
 
 Feature 1: Identifying and correct vehicle safety problems
 Feature 2: Keeping track of car expenses
 Feature 3: Services => oil changes, tires, filters, etc.
 
 
-**Unique Selling Points (USPs):** - [What makes this system stand out?] 
+**Unique Selling Points (USPs):**
 
 Complete approach to vehicle management
 Personalized reminders
@@ -32,7 +32,7 @@ Reports and statistics (with paid option to export to excel)
 Option to have multiple vehicles
 
 
-**Limitations/Weaknesses:** - [Any known shortcomings or pain points] 
+**Limitations/Weaknesses:**
 
 Subscription pop-up cannot be closed
 Some options don't work
