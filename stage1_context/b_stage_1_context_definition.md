@@ -139,6 +139,15 @@ Despite the many features, the visual design is functional but seems outdated, I
 It could definitely be improved in terms of visuals and especially in terms of functionality (avoiding so many pop-ups and the subscription screen problem).
 Danger of being overtaken by more modern applications and can have difficulty in retaining users due to limited usability.
 
+### HCI SWOT Analysis for Drivvo
+| Aspect       | Observations                                                                                           |
+|--------------|--------------------------------------------------------------------------------------------------------|
+| **Strengths** | • Many features available​. |
+| **Weaknesses** | • Outdated interface​. <br> • Limited customization options. <br> • Confusing for less experienced users​. <br> Lack of visual confirmations after actions​. |
+| **Opportunities** | • Improving visuals and functionality​. <br> • Enhancing usability can increase retention​. |
+| **Threats** | • Risk of being overtaken by more modern apps​. |
+
+
 ---
 
 # B.2. Users
@@ -148,6 +157,9 @@ Danger of being overtaken by more modern applications and can have difficulty in
 ## B.2a. Method
 
 [What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+
+We conducted semi-structured interviews with our classmates. We asked about their own car management and if they thought they would benefit from a more digitalized option. We also asked about their family's relation with this issue, to confirm if it was like ours. In the end we asked for desired features and thing we could improve on. 
+
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
