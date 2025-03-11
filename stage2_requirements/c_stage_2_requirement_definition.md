@@ -70,9 +70,9 @@ Maria, a 72-year-old retiree, has constantly valued her independence and loves r
 
 As she opened the app, Maria saw a simple and clear interface. The app, privy to her vehicle's details, confirmed her a dashboard with upcoming responsibilities: a reminder to pay the IUC in weeks and a notification that her subsequent oil exchange is due in 500 kilometers. The app also highlighted a nearby garage, José Carlos's workshop, with desirable opinions and less costly fees.
 
-Maria felt relieved understanding she didn’t have to take into account these tasks herself. Later, she acquired a notification from Rafael, who also has get admission to to her vehicle’s profile, reminding her to agenda the oil change.
+Maria felt relieved understanding she didn’t have to take into account these tasks herself. Later, she acquired a notification from Rafael, who also has to get admission to her vehicle’s profile, reminding her to agenda the oil change.
 
-With the app, Maria felt more safe with her automobile’s protection, and Rafael become satisfied that he could help his mother remotely.
+With the app, Maria felt safer with her automobile’s protection, and Rafael become satisfied that he could help his mother remotely.
 
 ---
 
@@ -100,7 +100,7 @@ Usability: The app should have a simple and intuitive interface to allow people 
 
 Security: The app should protect user data
 
-Scalability: The app should allow a hight amount of vehicles per user
+Scalability: The app should allow a high number of vehicles per user
 
 
 

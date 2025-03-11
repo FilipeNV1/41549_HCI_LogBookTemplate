@@ -18,7 +18,7 @@ The user is trying to keep track of all the important dates and milestones relat
 - If the user has multiple cars, keeping track of different schedules becomes even more complicated.
 
 **Are there any workarounds or strategies they currently use?** 
-- Writting everything in a paper/notebook.
+- Writing everything in a paper/notebook.
 - Setting up phone reminders.
 - Relying on contacts from insurance companies, mechanics, or inspection agencies.
 - Getting reminders from family or friends.
@@ -32,7 +32,7 @@ The user is trying to keep track of all the important dates and milestones relat
 - Paper logbooks or notebooks. 
 
 **Are there any frustrations or limitations with these tools?** 
-- Using Calender/Task Management apps may be usefull to remind the user about static dates but isn't pratical to alert about maintainance marks.
+- Using Calendar/Task Management apps may be useful to remind the user about static dates but isn't practical to alert about maintenance marks.
 - Papers or logbooks can easily be lost.
 - Not every car manufacturer or insurance company has an app.
 
@@ -53,6 +53,6 @@ The user is trying to keep track of all the important dates and milestones relat
 **How do they measure success for completing the task efficiently?** 
 - Never missing an important deadline.
 - Reducing time spent managing car-related tasks.
-- Be able to acces all the information in one place.
+- Be able to access all the information in one place.
 
 --- 

@@ -55,7 +55,7 @@ Method: Everyone did their own and then we discussed
 | Subscription pop-up cannot be closed | 4            | 3        | 3        | Ensure that all pop-ups have a close button |
 | Polluted screen                      | 2            | 3        | 1        | Clean the pop-ups                           |
 | Not very intuitive                   | 2            | 1        | 2        |                                             |
-| Week feedback                        | 2            | 2        | 2        | Add more visual confimations                |
+| Week feedback                        | 2            | 2        | 2        | Add more visual confirmations                |
 | No help offer                        | 2            | 2        | 2        | Make it easier for people who have w                                                                                difficulties working with smartphones
 | Outdated design                      | 1            | 1        | 1        | Updating the design to be more modern       |
 | Limited customization                | 1            | 1        | 1        | Allow users to customize the interface      |
@@ -131,7 +131,7 @@ Task: Register service
 
 ## B.1c. Overall Analysis
 
-[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
+[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluation, cognitive walkthrough, online reviews, user feedback, etc.]
 
 Drivvo's analysis revealed strengths and weaknesses that can inform the design of a competitive solution. Below are the main insights:
 
