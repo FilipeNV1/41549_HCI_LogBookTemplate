@@ -6,11 +6,11 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: [Car Management]
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 1: [Duarte Branco ; 119253] 
+- Student 2; [Filipe Viseu ; 119192]
+- Student 3: [Samuel Vinhas ; 119405]
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)

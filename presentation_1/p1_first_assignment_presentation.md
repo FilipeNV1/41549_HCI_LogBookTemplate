@@ -18,10 +18,10 @@ Use this checklist as a guide to the minimum items to cover for your project up 
 - [X] Target users: Personas / Brief presentation of profile + motivation
 - [X] Scenarios / How many / Illustrate for one situation
 - [X] Requirements
-- [ ] Decide on overall characteristics of solution: mobile/desktop/web; interaction modalities
-- [ ] Conclusions + what went right/wrong
-- [ ] Self-assessment of work + report Percentage of contribution by each group member
-- [ ] Does the presentation fit in 15 minutes
+- [X] Decide on overall characteristics of solution: mobile/desktop/web; interaction modalities
+- [X] Conclusions + what went right/wrong
+- [X] Self-assessment of work + report Percentage of contribution by each group member
+- [X] Does the presentation fit in 15 minutes
 
 
 # Readings
