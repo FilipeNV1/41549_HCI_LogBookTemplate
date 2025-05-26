@@ -33,6 +33,11 @@
 
 # E.X. User Evaluation
 
+## Personal information
+![Gender](./images/gender.png)
+![Age](./images/age.png)
+![Experience](./images/experience.png)
+
 ## Review 1: Add Car
 ![Review1](./images/reviewAddCar.png)
 
@@ -44,6 +49,11 @@
 
 ## Review 4: Set Reminder
 ![Review4](./images/reviewSetReminder.png)
+
+## SUS Score:
+![SUS1](./images/cumbersome.png)
+![SUS2](./images/learnQuickly.png)
+#### Final Score: 89.70
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)

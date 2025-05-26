@@ -6,9 +6,9 @@
 
 
 # Refinement List
-
+With the feedback from the user evaluation, we have identified some areas for improvement in our prototype:
 - Improve interface
-- Make the "+" button more visible
+- Forget the “workshops” page, it was our worst rating and was confusing users
 
 # Refined Prototype
 
