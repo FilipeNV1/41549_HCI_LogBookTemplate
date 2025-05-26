@@ -50,6 +50,19 @@
 ## Review 4: Set Reminder
 ![Review4](./images/reviewSetReminder.png)
 
+## Observer tables
+#### User 1
+![ObserverTable1](./images/table2.png)
+#### User 2
+![ObserverTable2](./images/table1.png)
+#### User 3
+![ObserverTable3](./images/table3.png)
+#### User 4
+![ObserverTable4](./images/table4.png)
+
+## Comments
+We can see that the users had a good experience with the prototype, they were able to complete all tasks without any major issues. The main problem was the "workshops" page, which was confusing and not useful for the users.
+
 ## SUS Score:
 ![SUS1](./images/cumbersome.png)
 ![SUS2](./images/learnQuickly.png)
